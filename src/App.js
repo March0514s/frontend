@@ -18,6 +18,7 @@ function App(){
 					<li>Projects</li>
 					<li>Login</li>
 				</ul>
+			</Header>
 		</>
 	 	) 
 }
